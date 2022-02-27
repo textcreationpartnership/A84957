@@ -1,0 +1,328 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and the truest narrative of the most horrid, barbarous and unparalled murder, committed on the person of John Knight, apprentice to Mr. Arthur Worth, silk-man in milk-street, London. Which ... was committed by the desperate and bloody hand of Nathaniel Butler ... on Thursday morning August 6. 1657. Together with the manner of his being apprehended and examined; and the confession from the mouth of the said Butler ... an account of the tryall, condemnation and sentence pronounced against him, which was executed upon him, on Monday August 31. 1657. And his last speech upon the ladder immediately before his death, which he desired might be printed after his death; and to that end gave it at large in writing from off the ladder, to Mr. Yearwood chaplain to the right honourable Sir Robert Titchbourn lord mayor of London ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84957</idno>
+            <idno type="STC">Wing F2292</idno>
+            <idno type="STC">Thomason E925_1</idno>
+            <idno type="STC">ESTC R207550</idno>
+            <idno type="EEBO-CITATION">99866594</idno>
+            <idno type="PROQUEST">99866594</idno>
+            <idno type="VID">168486</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84957)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168486)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 139:E925[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and the truest narrative of the most horrid, barbarous and unparalled murder, committed on the person of John Knight, apprentice to Mr. Arthur Worth, silk-man in milk-street, London. Which ... was committed by the desperate and bloody hand of Nathaniel Butler ... on Thursday morning August 6. 1657. Together with the manner of his being apprehended and examined; and the confession from the mouth of the said Butler ... an account of the tryall, condemnation and sentence pronounced against him, which was executed upon him, on Monday August 31. 1657. And his last speech upon the ladder immediately before his death, which he desired might be printed after his death; and to that end gave it at large in writing from off the ladder, to Mr. Yearwood chaplain to the right honourable Sir Robert Titchbourn lord mayor of London ...</title>
+                  <author>Butler, Nathaniel, d. 1657.</author>
+               </titleStmt>
+               <extent>[4], 15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T. Mabb for J. Saywell, and are to be sold at the Pile of Bibles, the corner shop of the east end of the fish-market, in the stocks, looking into Lombard-street, over against the post house, between Cheap-side and the .. ,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint date from Thomason.</note>
+                  <note>Annotation on Thomason copy: "Septem. 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Butler, Nathaniel, d. 1657 --  Early works to 1800.</term>
+               <term>Knight, John, d. 1657 --  Early works to 1800.</term>
+               <term>Murder --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Claire Tolan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Claire Tolan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168486:1" rendition="simple:additions"/>
+            <p> A Full and the Trueſt NARRATIVE Of the moſt Horrid, Barbarous and Unparalled <hi>MURDER,</hi> Committed on the Perſon of <hi>John Knight,</hi> Apprentice to <hi>Mr. Ar<g ref="char:EOLhyphen"/>thur Worth,</hi> Silk-man in <hi>Milk<g ref="char:punc">▪</g>ſtreet, London.</hi>
+            </p>
+            <p>Which moſt Wicked and Cruell <hi>Murder</hi> was Committed by the deſperate and bloody hand of <hi>Nathaniel Bu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ler,</hi> his moſt Intimate and Boſome friend, as they lay in Bed together, on <hi>Thurſday,</hi> morning <hi>Auguſt</hi> 6. 1657.</p>
+            <p>
+               <hi>TOGETHER,</hi> With the manner of his being Apprehended and Examined; and the Con<g ref="char:EOLhyphen"/>feſſion from the mouth of the ſaid <hi>Butler,</hi> word for word: And his earneſt Repentance for his deſperate Fact.</p>
+            <p>ALSO, An Account of the Tryall, Condemnation and Sentence pro<g ref="char:EOLhyphen"/>nounced againſt him, which was Executed upon him, on <hi>Monday Auguſt</hi> 31. 1657.</p>
+            <p>
+               <hi>And his laſt Speech upon the Ladder Immediately before his death, which he deſi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> might be printed after his Death; and to that end gave it at large in Writing from off the Ladder, to Mr.</hi> Yearwood <hi>Chaplain to the Right Honourable Sir</hi> Robert Titchbourn <hi>Lord Mayor of</hi> LONDON.</p>
+            <p>With Obſervations and Reflections upon the Whole.</p>
+            <p>Publiſhed after many Lying and falſe Relations both befo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and ſince his Death, with a detection of many lyes and abſurdities; and that the truth may be known.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. Mabb</hi> for <hi>J. Saywell,</hi> and are to be ſold at the <hi>Pile of Bibles,</hi> the co<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ner ſhop of the Eaſt end of the <hi>F<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh-Market<g ref="char:punc">▪</g>
+               </hi> in the <hi>Stocks,</hi> looking into <hi>L<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mbard-ſtreet,</hi> over againſt the <hi>Poſt houſe,</hi> between <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:168486:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:168486:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Ingenuous Reader;</salute>
+            </opener>
+            <p>FOr ſuch I preſume thee as an inquirer after truth, and Truth ſeeks no cor<g ref="char:EOLhyphen"/>ners, yet is ſometimes hard to be found, unleſs God give it in; as by the ſubſtance of the following <hi>Narrative</hi> thou wilt perceive. How many in things of the higheſt Account do believe truth to be no other thing, than what may be bottomed in the ſhalloweſt skull? Even ſo hath it faln out in what we have now in hand to diſcover. <hi>New, new, new,</hi> and <hi>true;</hi> is now adayes (to ordinary Readers)
+<pb facs="tcp:168486:3"/> an authentication ſufficient, for Relations of this or the like nature. But Reader it is the Cry of Blood, of Blood! There<g ref="char:EOLhyphen"/>fore more ſeriouſneſs becomes our pen: in the peruſal of this Relation, thou ſhalt in a chain of dependencies read the <hi>Truth,</hi> the whole <hi>Truth,</hi> and nothing but the <hi>Truth;</hi> and as ſuch thou art deſired to Read for thy ſatisfaction, what hath fully ſatisfied him, who is, what he hopeth, at leaſt wiſheth thee;</p>
+            <closer>
+               <signed>A Lover of truth.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:168486:3"/>
+            <div type="narrative">
+               <head>A full and the trueſt <hi>Narrative</hi> of the horrid, moſt barbarous, and unparralled <hi>Murder,</hi> Committed on the Perſon of <hi>John Knight,</hi> Apprentiſe to Mr. <hi>Arthur Worth,</hi> Silkman, in <hi>Milk-ſtreet, London.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">N</seg>Ot to trouble the Reader with a needleſſe and tedi<g ref="char:EOLhyphen"/>ous Introduction to a Relation of this nature, which uſually ſome do? and make a Porch bigger than the houſe it ſelf, which is ridiculous: But to come unto the matter before us. It is a Narration of the moſt horrid, barbarous and unparralell'd Murther that hath been heard of in this age.</p>
+               <p>All ſins offend the great, dreadful and juſt, yet Good God; and ſeldome eſcape his puniſhments in this world, but without re<g ref="char:EOLhyphen"/>pentance and faith never in the other. But the Cry of blood is loud! and Murther open mouth'd! not to inſtance in that of <hi>Cain</hi> at this time, ſince a clear Teſtimony of Gods Providence and Ju<g ref="char:EOLhyphen"/>ſtice hath faln out lately in <hi>Milk-ſtreet;</hi> in the diſcovery of a bar<g ref="char:EOLhyphen"/>barous Murther, and the Murtherer <hi>Nathaniel Butler,</hi> who had his chiefeſt accuſer within himſelf, and was dogged by his own con<g ref="char:EOLhyphen"/>ſcience. He was Apprentice by Indenture to Mr. <hi>Munday</hi> in <hi>Carter-lane,</hi> and turned over to <hi>John Abbot</hi> a Drawer of Cloath in the <hi>Old-change,</hi> and afterwards turned over to one Mr. <hi>Goodday</hi> of the ſame Trade in <hi>Carter-lane</hi> as aforeſaid, in the time of whoſe ſervice he committed this horrid Murther, or, rather to ſerve the Devil he committed this deſperate Murther. And the manner how he did it ſhall hereafter in its place be declared; but the op<g ref="char:EOLhyphen"/>portunity
+<pb n="2" facs="tcp:168486:4"/> and occaſion in the firſt place was thus: Mr <hi>Worth</hi> (one deſerving his name) a worthy Citizen of <hi>London,</hi> a man in<g ref="char:EOLhyphen"/>duſtrious and active; who upon the affairs of Trade or Merchan<g ref="char:EOLhyphen"/>diſe being gone to <hi>Briſtol</hi> Fair, and having taken one of his Ap<g ref="char:EOLhyphen"/>prentices with him for his aſſiſtance; left at home his other Ap<g ref="char:EOLhyphen"/>prentice <hi>John Knight</hi> to mannage the affairs of his trade, here at his ſhop in <hi>London.</hi> Now it is ſuppoſed that he was a youth ſomewhat timorous, and fearing to lye alone, in his Maſters ab<g ref="char:EOLhyphen"/>ſence he requeſted <hi>Nathaniel Butler</hi> to be his Bedfellow until his Maſter and fellow Apprentice ſhould return from <hi>Briſtol:</hi> Thir<g ref="char:EOLhyphen"/>teen or fourteen nights they lay together, and as it ſeems they were very familiar and intimate: All this while not any of Mr. <hi>Worth</hi>'s houſhold (excepting <hi>John Knight</hi> himſelf) did know of <hi>Nathaniel Butler</hi>'s lying in the houſe with him, for things were ſo ſecretly carried between them, that he came ordinarily towards Bed-time, about nine or ten of the clock at night, and returned in the morning with the firſt up in the houſe, which was his bed-fel<g ref="char:EOLhyphen"/>low. Whether Mr. <hi>Goodday Nathaniel Butler</hi>'s Maſter, or his fel<g ref="char:EOLhyphen"/>low Apprentice at leaſt did know thereof, reſteth much in ſuſ<g ref="char:EOLhyphen"/>picion. But that all entruſted by their Maſters or Miſtreſſes, may henceforth be wary whom they entertain into ſuch familiarity: Behold! The ſad iſſue! This new bed-fellow murthers his inti<g ref="char:EOLhyphen"/>mate and boſome Friend for the baſe lucre of money, which ha<g ref="char:EOLhyphen"/>ving thus got, he was as reſtleſs as before: The ſight of ſome baggs of money took his nightly reſt from him, all <hi>Tweſday</hi> night he could not ſleep. On <hi>Wedneſday</hi> he makes ſhew of love and friendſhip, and they agree to go a drinking together, and then a Fiſhing: After this they Sup together; but what miſchief is at the bottome of that heart which diſſembles Love? Let the iſſue prove.</p>
+               <p>On the <hi>Wedneſday</hi> night he could not ſleep.</p>
+               <p>On the <hi>Thurſday</hi> morning by break of day he cut the mouth and throat of his bedfellow, and ſtrangled him on his bed, being
+<pb n="3" facs="tcp:168486:4"/> both in their ſhirts. A ſad ſpectacle is diſcovered by a bloody ſhirt found (lying on the Counter in the Shop in the morning,) by the maid ſervant of the houſe, who preſently called in ſome of the neighbours, who going to the chamber where the Apppren<g ref="char:EOLhyphen"/>tice lay, they found him lying with his feet on a corner of the boulſter, and his head towards the lower end of the bed, in gore blood, and with a lock of hair in his right hand, and ſome ſcat<g ref="char:EOLhyphen"/>tering hairs were found in his left-hand alſo; they were all ſtruck with amazment! The houſe is raiſed! The neighbourhood cal<g ref="char:EOLhyphen"/>led in! A tumult about the doore! The murder viſible! The Murderer unknown and eſcaped in the morning, preſently after the fact.</p>
+               <p>The Coroner Mr. <hi>Edward Moreton,</hi> being ſent for, came im<g ref="char:EOLhyphen"/>mediately and having ſummoned a Jury of twenty foure Neigh<g ref="char:EOLhyphen"/>bours, did ſit upon Enquiry, concerning the Murder and Mur<g ref="char:EOLhyphen"/>derer: People were admitted of all degrees to go up into the room and view the bloody murdered Corps, and ſome were ex<g ref="char:EOLhyphen"/>amined concerning the ſame; whoſe innocencies were apparent.</p>
+               <p>On <hi>Fryday</hi> the Murdered young-man was decently Interred in the Church of <hi>Magdalen Milk-ſtreet,</hi> accompanied with the ſighes and tears of many of his dear and good Relations, Neighbours and many others.</p>
+               <p>But all this while, the Coroner and Jury were at a ſtand, they found the Murder, but not the murderer; yet endeavours for diſcovery thereof were ſtill uſed with much ſedulity; and all perſons laid hold on upon the leaſt ſuſpicion. It happened that a young man who on Wedneſday came down-wards by Water, hearing of this Murder, did acquaint ſome Friends of Maſter <hi>Worths,</hi> that he did ſee <hi>John Knight</hi> a Fiſhing on the ſame Wed<g ref="char:EOLhyphen"/>neſday; the Youth was further examined, whom he ſaw with him? and he deſcribed the Perſon and Habit of the Perſon whom he ſaw, as well as he could; in ſo much that one gazing at the door among others, was taken upon ſuſpicion, by his Habit, and
+<pb n="4" facs="tcp:168486:5"/> under ſtrict examination untill credible aſſurance cleared him; his Apparrel being very like as the youth had deſcribed.</p>
+               <p>But in a perfect and full diſcovery of the Murderer, the onely hand of God was manifeſt: though much ſearch was made in purſuance thereof. Being informed by a Neighbours ſervant that one <hi>Nathaniel Butler,</hi> was an acquaintance of <hi>John Knights,</hi> and on ſuppoſition that he might know what other acquaintance he had, not then having the leaſt ſuſpicion of him; and having learn<g ref="char:EOLhyphen"/>ed that his Maſters houſe was in <hi>Carter-lane,</hi> the ſaid Servant with an other young man were ſent to Maſter <hi>Goodday's</hi> houſe to en<g ref="char:EOLhyphen"/>quire after this <hi>Nathaniel Butler,</hi> where they were told, that he was gone to a Turners ſhop at the Corner of <hi>Bread-ſtreet,</hi> thither they went and found him accordingly; and asking him whe<g ref="char:EOLhyphen"/>ther he knew one <hi>John Knight,</hi> he being as it ſeems ſmitten in his own heart, faltered in his ſpeech, &amp; made out of the ſhop with a dejected Countenance; at firſt denying that he knew him, but pre<g ref="char:EOLhyphen"/>ſently after confeſſed that he did know him; whereupon they asked him to accompany them to <hi>Milk-ſtreet?</hi> but he pretended buſineſſe and ſaid he could not go then, and went his way: In this diſcourſe with him, having perceived his hands to be ſcratch<g ref="char:EOLhyphen"/>ed, they began to be ſuſpicious of him, ſo that they followed him at a diſtance, till they ſaw him in his Maſters houſe in <hi>Carter<g ref="char:EOLhyphen"/>lane.</hi> After which they related what had paſſed to Mr. <hi>Worth</hi> at his houſe in <hi>Milk-ſtreet,</hi> who preſently ſent one of the Martials men of this City, being then about the doore, together with thoſe young men for his Aſſiſtance unto Mr <hi>Gooddays</hi> houſe in <hi>Carter<g ref="char:EOLhyphen"/>lane</hi> on Saturday in the Evening, who going to enquire there for <hi>Nathaniel Butler,</hi> they ſpied him croſſing the way from his Maſters door, going to a houſe over the way, they purſuing him, found him in the Entry; and then the Martials man laid hold of him, and charged him with ſuſpicion of Murder; and ſtraitway they brought him to Maſter <hi>Worth</hi>'s houſe without any reſiſtance, where he was cauſed to be ſtript, and in ſearching him, his Lea<g ref="char:EOLhyphen"/>ther
+<pb n="5" facs="tcp:168486:5"/> Drawers were found to be bloody, and ſome blood about his Cloathes; alſo ſtains of blood on his Stockings, which with the ſcratches on his Face and Hands, were ſtrong preſumptions, that he had a hand in this Murder, with which he being charged, ſeverall times denyed. During the time of this ſearch of him, the Martiall of this City with another Gentleman went down to his Maſters houſe, and enquiring for <hi>Butlers</hi> Trunk, a new Trunk was ſhewed them, which being inſtantly broke open, they there<g ref="char:EOLhyphen"/>in found two Bags of money, one of which Bags had Mr. <hi>Worths</hi> Mark on it, which being brought by the Martiall to Mr. <hi>Worths</hi> houſe, and being thrown down upon a Table with acclamation! that they had not onely found out the Murderer, but the money alſo: The Martial's man then called for a Cord, wherewith he bound his Hands; Some of his Hair being plucked off to be com<g ref="char:EOLhyphen"/>pared with the Hair which was found in the young mans hand that was Murdered; and being ready to carry him away: He then began in a crying manner to Confeſſe; the Coroner and ſome of the Jury with two Conſtables being preſent, he began by degrees to acknowledge one thing after another; and at laſt confeſſed the whole Murder, and the manner thereof before them.</p>
+               <p>After which the Martial and the Conſtables with the Coroner and ſome of the Jury carryed him before Sr. <hi>Robert Titchbourn,</hi> the Right Honourable the Lord Mayor of <hi>London,</hi> where he volun<g ref="char:EOLhyphen"/>tarily made the like Confeſſion, and ſeemed to be very repen<g ref="char:EOLhyphen"/>tant and deject in his minde: From whence he was Committed, and ſtrongly guarded to <hi>Newgate</hi> Priſon about Nine or Ten of the Clock on Saturday Night, the eighth of <hi>Auguſt,</hi> where he was put into ſafe Cuſtody.</p>
+               <p>On Monday the tenth of <hi>Auguſt,</hi> the Coroner and Jury ſate in the Pariſh Church of <hi>Magdalen Milk-ſtreet,</hi> and did fully agree upon their joynt Verdict, both as to the Murder, and Murderer; <hi>Nathaniel Butler</hi> by name.</p>
+               <p>On this Monday alſo, it pleaſed the Right Honorable the Lord
+<pb n="6" facs="tcp:168486:6"/> Mayor of <hi>London,</hi> to ſend Mr. <hi>Yearwood</hi> his Lordſhips Chaplain unto this Priſoner in <hi>Newgate,</hi> with whom came Mr. <hi>Venning</hi> alſo, both godly and able Miniſters of the Word: And on the after<g ref="char:EOLhyphen"/>noon, they had opportunity to ſpeak with this ſad but deſperate Murderer; and finding him very willing to make Anſwer to what they propoſed; they dealt very conſcienciouſly and plainly with him, concerning the Point of Repentance, as to the Truth and Realty of it; in conſideration of his Offence and ſin againſt the juſt and righteous God: and not ſo much eying his own pre<g ref="char:EOLhyphen"/>ſent ſad condition, or apprehenſion of the fear of after ſhame or puniſhment: Maſter <hi>Venning</hi> cloſed the meeting with a comfor<g ref="char:EOLhyphen"/>table Prayer, over, and with the Priſoner, and ſo parted.</p>
+               <p>But now take the Confeſſion from his own mouth, to the Que<g ref="char:EOLhyphen"/>ſtions then put; and theſe were his very Anſwers, word for word to every of them.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>Monday Auguſt 10. 1657.</head>
+                     <p>
+                        <hi>NAthaniel Butler</hi> born in <hi>Alton</hi> in <hi>Hamſhire</hi> ſeven miles beyond <hi>Farneham</hi> in <hi>Surry,</hi> maketh this confeſſion, in the preſence of <hi>Mr. Worth</hi> and others.</p>
+                     <p>I have deſtroyed the Image of God in <hi>John Knight,</hi> no perſon Wo<g ref="char:EOLhyphen"/>man or maid had any hand in the Murther of him but my ſelf.</p>
+                     <p>I ſaw the money on <hi>Tueſday</hi> morning laſt, when I was combing of my Hair in the Shop, I looked into the Till.</p>
+                     <p>I had then a Pen-knife in my Pocket, which <hi>John</hi> deſired of me.</p>
+                     <p>I had then in my pocket a knife of my fellow-ſervants <hi>Thomas Falconer.</hi>
+                     </p>
+                     <p>
+                        <hi>Wedneſday</hi> morning laſt, we went to the Black-Sw<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n on the back ſide of the Shambles, and there drunk our mornings draught, and we concluded to go a Fiſhing; and <hi>John</hi> bought me a Fiſhing <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>od, and bought himſelf one that coſt foure or five ſhillings; we appoin<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ed to
+<pb n="7" facs="tcp:168486:6"/> meet at two of the clock in the Afternoon, at <hi>Pauls Wharff,</hi> at which time <hi>John</hi> came to my Maſters houſe, and preſently within a quarter of an houre we met at the <hi>Sun-Alehouſe</hi> at <hi>Pauls Wharff,</hi> and there bought Bread to make ground-baits; and thence went a Fiſhing till five or ſix of the Clock; after which we parted and I went home to my Maſters houſe: We appointed to meet together at eight of the clock that night, which we did at <hi>Honey-lane</hi> end, and thence went into Fiſh-ſtreet to the <hi>Maiden-head,</hi> and drunk three half pints of Sack, and eat a piece of Salmon of twelve pence.</p>
+                     <p>I never had but one Forty ſhillings of him.</p>
+                     <p>There was One hundred and ten pounds in both Bags, and there is taken out about ſeven pounds.</p>
+                     <p>I came afterwards about ten a clock to Mr <hi>Worths</hi> houſe, and was in the back Warehouſe when they came to ſee the Doores lockt in.</p>
+                     <p>We went to bed together, and I could not be at quiet till I had done the Fact.</p>
+                     <p>I made proffer many a time with my knife to the intent to cut <hi>Johns</hi> throat, and once put my knife up again: And between three and foure of the clock, on <hi>Thurſday</hi> morning, I took my knife and cut his Mouth to his Ear, at which he ſchrieked out and cryed Murder. Then I put my right hand into his Mouth, and ſo lay ſtrugling together for about half an houre, and at length I ſtrangled him: after which I looked about the Chamber, and the Devill inſtigated me to cut his Throat, which I did with my right hand, we being both naked.</p>
+                     <p>Then I ſlipt off my bloody Shirt, and wiped the blood off me, and put on my cloathes, and having taken the Keys of the Till, where the money lay, out of <hi>John's</hi> pocket: I brought down my bloody ſhirt, and laid it on the Counter in the ſhop, and opened the Till and took out two Bags of money, and went away with them, leaving the Keys in the Till, and the ſhop doore open ſtanding a char.</p>
+                     <p>I went home to my Maſters houſe in <hi>Carter-lane,</hi> which hath two doores, and at the back door in the yard, it being open, I went in and waſhed my hands and face; and after took water in my hand and waſhed the blood off my ſtockings.</p>
+                     <pb n="8" facs="tcp:168486:7"/>
+                     <p> Then put off all my cloathes and went to bed, and put the two Bags of money in the Bed with me.</p>
+                     <p>In the morning after I was up, I bought a Trunk, which coſt eight ſhillings, and put the money in that Trunk; I knew not what to do.</p>
+                     <p>I came to Milk-ſtreet on Friday night, but knew not what to do.</p>
+                  </body>
+               </floatingText>
+               <p>BY all that is paſſed you may eye the Divine Providence of God in detection of Murther. And now <hi>ex ore</hi> is he condem<g ref="char:EOLhyphen"/>ned, and a ſure ground for Bills of Indictment prepared, as to <hi>Murther</hi> and <hi>Theft;</hi> and as providence willed this timely diſco<g ref="char:EOLhyphen"/>very: So likewiſe as opportunely did it fall out (that Juſtice might not be delayed) that the Seſſions in the <hi>Old-Balie London,</hi> did begin on the <hi>Wedneſday</hi> following, and he was there accor<g ref="char:EOLhyphen"/>dingly on the twelfth of <hi>Auguſt</hi> arraigned for his life upon two Indictments, the one for the Murther, and the other for taking a<g ref="char:EOLhyphen"/>way the money; to both which he pleaded guilty: Command was given that he ſhould be returned to <hi>Newgate.</hi> His guilt &amp; con<g ref="char:EOLhyphen"/>demnation lying ſo plain before him, his only ſuit to the Honou<g ref="char:EOLhyphen"/>rable Court was, the favour of ſome time for his repentance, and preparation for Death: It is ſaid the Right Honourable the Lord Major of the City of <hi>London</hi> (the Recorder being abſent) did anſwer, You gave the young man no time of Repentance, or to that effect; whereat the Priſoner was dread and full of horror! yet nevertheleſſe, favour was granted him by the whole Court, for more than a fortnights time to the end deſired: Which that it might have its true end, and that it might be a means to bring him to a true and through repentance of that his Capitall and grand crying crimſon Crime; and of all other his ſins, through the whole courſe of his miſled life; and that God would give him Faith and Intereſt in the Blood of Chriſt, for the Pardon of all: Doubtleſſe to God, who heareth Prayer, were the hea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty de<g ref="char:EOLhyphen"/>ſires and breathings of many godly and good Chriſtians ſent up on his behalf.</p>
+               <pb n="9" facs="tcp:168486:7"/>
+               <p> On <hi>Fryday Auguſt</hi> the fourteenth, he received the Sentence of Condemnation, <hi>viz. That he ſhould be led back again to the place from whence he came; and from thence carried to the place of Execu<g ref="char:EOLhyphen"/>tion (which was appointed to be in</hi> Cheap-ſide, <hi>looking into</hi> Milk-ſtreet) <hi>and there be hanged by the Neck untill he were dead.</hi>
+               </p>
+               <p>All the time of his Impriſonment, he had the aſſiſtance of ma<g ref="char:EOLhyphen"/>ny able and godly Divines, Miniſters of <hi>London,</hi> and elſewhere to converſe with, almoſt every day one or more (yea, the Right Honourable the Lord Mayor of <hi>London,</hi> himſelf vouchſafed to confer and pray with and for him; as is ſaid more than once) to whom he was very open hearted, and condemned himſelf in his generall ill led life, as having been addicted to ga<g ref="char:EOLhyphen"/>ming, drinking, and abuſing himſelf with women, and other vices whereto the Devil had inured him, in order to this his black or rather bloody ſin of Murder.</p>
+               <p>He hath been often heard to cry out of his too licenſious courſe of life, And as oft hath he cryed out of the ſight of the money, which led him into the ſnare of temptation to this vile Act.</p>
+               <p>Withall he hath declared ſome of his Complices, and what an ill inſtrument he had been for them, with their wicked practices in wronging of their Maſters, and many other things tending to their Maſters wrong, and their own ruines; which in time will be further enquired into.</p>
+               <p>But now we ſhall attend him in the manner of his execution, and his deport, laſt words and actions therein.</p>
+               <p>On <hi>Monday</hi> the 31th. of <hi>Auguſt</hi> 1657. No tree was ever more ready for the Axe of Juſtice, than the peoples expectations greedy of ſeeing the execution thereof. About ſeven of the clock in the morning the condemned priſoner <hi>Nathaniel Butler</hi> was brought in a Coach from <hi>Newgate</hi> to <hi>Cheapſide,</hi> where a Gibbet was erected on purpoſe facing <hi>Milk-ſtreet,</hi> in view of the houſe where he had done his bloody Act, where ſtepping out of the Coach, after a little while, he aſcended the Ladder, and began his laſt Speech
+<pb n="10" facs="tcp:168486:8"/> unto the People; and but for the Preſſe and Noiſe of the Multi<g ref="char:EOLhyphen"/>tude he might have been heard afar off; for he ſtretcht his voice exceedingly to be heard, inſomuch that ſpending himſelf in reading of his Papers, he was ſeen to ſweat very much, which occaſioned his often wiping of his Face, and encreaſed delay, ſo that he was deſired to abreviate himſelf in what he had to ſay, which accordingly he did; and delivered his Papers into the hand of Mr. <hi>Yearwood</hi> or ſome other of his acquaintance; the ſubſtance whereof, in ſhort was this.</p>
+               <p>That he did confeſſe himſelf to have been a moſt grievous ſin<g ref="char:EOLhyphen"/>ner, in the whole courſe of his life; and deſired that all others, eſpecially all that had been his Companions, to take heed of ſin; ſhewing them how horrid and bitter a thing it was to ſin againſt God; adviſing them likewiſe above all things to beware of pre<g ref="char:EOLhyphen"/>ſumption, and that they would be more carefull in their walk<g ref="char:EOLhyphen"/>ings hereafter, and be warned henceforth by his preſent Example; for ſaid he, <hi>If you will go on in ſinfull practiſes and hope for Pardon, God will keep his Pardon, and you ſhall keep your ſins:</hi> And then declared that he hoped, yea was ſtrongly aſſured, that his own Pardon was ſealed in the blood of Chriſt: Then he pray<g ref="char:EOLhyphen"/>ed very audibly: Mr. <hi>Yearwood</hi> alſo the Miniſter there preſent did pray for him; then himſelf alſo prayed again ſomewhat lower in his voice than he had ſpake and prayed before: For what he delivered at firſt, was with much Chriſtian boldneſſe; then he commended his ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul to God through Chriſt; and ſaid, <hi>Now I am lanching into the Ocean of Eternity,</hi> (and fitted himſelf for a turn off the Ladder,) having in the cloſe of his Prayer ſaid, <hi>Lord Jeſus receive my ſpirit:</hi> Inſtantly, the Executioner performed his Office.</p>
+               <p>So ſoon as he was dead, he was cut down, put into a Coffin and carried away in the ſame Coach wherein he was brought, in or<g ref="char:EOLhyphen"/>der to his interment, which at night by the care of ſome of his Re<g ref="char:EOLhyphen"/>lations and Friends was decently performed, in the Church yard
+<pb n="11" facs="tcp:168486:8"/> of <hi>Gregories</hi> by <hi>Pauls,</hi> and Mr. <hi>Yearwood</hi> who the night before had ſate up all the night with him, with other Friends and Acquain<g ref="char:EOLhyphen"/>tance of his; the night was ſpent in heavenly conference and prayer (excepting for about three houres that the dying priſon<g ref="char:EOLhyphen"/>er took ſome reſt.) He, was pleaſed to make an Oration over his corps, when in the grave; and did then forbear to ſpeak any thing of or concerning him, as to the ſeveral conferences and diſ<g ref="char:EOLhyphen"/>courſes formerly had with him in priſon (but declared that poſ<g ref="char:EOLhyphen"/>ſibly hereafter they ſhould be printed) only that he died as to his and others apprehenſions a true penitent, and in a hopeful condition as to his after eſtate.</p>
+               <closer>Fiat Juſtitia aut ruat mundus.</closer>
+            </div>
+            <div type="part">
+               <head>Obſervations and reflections upon the whole, intended to deter others from the ſin of Murder, or any ſin tending to the endangering both of body and ſoul.</head>
+               <p n="1">1. <hi>ALl ſins offend the great, dreadful, juſt, yet good God:</hi> Sin ſeldome eſcapes puniſhment here.</p>
+               <p n="2">2. <hi>Murder a Crying ſin:</hi> Witneſs this example.</p>
+               <p n="3">3. <hi>No good ſign in a Servants oft removes:</hi> The rowling ſtone gathers no moſs, and it is apparent, he removed not for the better, but for the worſe.</p>
+               <p n="4">4. <hi>That a mans lawful and juſt undertakings, may unawares become diſadvantagious unto him:</hi> Happening through the weak<g ref="char:EOLhyphen"/>neſs or wilfulneſs of ſervants, the firſt being in this caſe.</p>
+               <p n="5">
+                  <pb n="12" facs="tcp:168486:9"/> 5. <hi>It is dangerous to be too confident of a new acquaintance:</hi> The ſubject of this Narration is a Comment.</p>
+               <p n="6">6. <hi>It is commendable in a Family, that at night the Maſter or Miſtreſs ſend all to bed before them, ſee all faſt, and then take up the Keys; and if weakneſs or ſickneſs hinder not, to be firſt up in the morning:</hi> This Order had prevented this late ſad accident.</p>
+               <p n="7">7. <hi>Covetouſneſs is the root of all evil:</hi> The ſight of ſome ba<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gs of money, and a deſire after them; cauſed him to Murder his Friend, to the hazzard of his own body and ſoul.</p>
+               <p n="8">8. <hi>Youthful delights and pleaſures may be bought at too dear a rate:</hi> Witneſs their Drinking, Fiſhing, Feaſting, <hi>&amp;c.</hi>
+               </p>
+               <p n="9">9. <hi>Confidence and guilt inconſiſtent:</hi> Witneſs his ſuddain Change of countenance upon denial.</p>
+               <p n="10">10. <hi>Conviction and dejection uſual:</hi> And a ſign of more grace than obſtinacy.</p>
+               <p n="11">11. <hi>Penitents (though in the greateſt ſins) to be dealt warily with, for fear of deſperation:</hi> Such was the Honourable Lord Ma<g ref="char:EOLhyphen"/>jor of <hi>London</hi>'s care to ſend his Chaplain and others to confer and prepare the Priſoner for Death.</p>
+               <p n="12">12. <hi>What</hi> Nathaniel Butler <hi>meant by the Image of God:</hi> If the inner man? what horrour ſhould have poſſeſſed him, in conſideration of his damnable act?</p>
+               <p n="13">13. <hi>Complices uſually ſtrict in their appointments:</hi> Witneſs their Preciſe meetings.</p>
+               <p n="14">14. <hi>Moneys ill got, uſually ſoon ſpent:</hi> As of one hundred and ten pounds, about ſeven pounds gone <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n three dayes.</p>
+               <p n="15">15. <hi>There is a lawful deſire and uſe of money, but the love of money breeds reſtleſneſs, and is too often got by Hook or by Crook:</hi> His reſt and quiet failed him upon the deſire of the money, before and after the fact, and in the enjoyment of his deſires; for it is ſaid he ſlept not in ſix nights after ſight of the money.</p>
+               <p n="16">
+                  <pb n="13" facs="tcp:168486:9"/> 16. <hi>From the time of the enjoyment of our moſt earneſt deſires, eſpecially if unlawful; the Devil uſually a diſturber of enjoy<g ref="char:EOLhyphen"/>ment:</hi> He had got his deſired Devil in two baggs, in bed with him, then in a Trunck; and yet he knew not what to do?</p>
+               <p>It is thought his coming to <hi>Milk-ſtreet</hi> that <hi>Friday</hi> night on which <hi>John Knight</hi> was buried, was to have reſtored the money again and confeſſed the matter to Mr. <hi>Worth,</hi> and referred himſelf to Juſtice, but he returned; not knowing what to do?</p>
+            </div>
+            <div type="part">
+               <head>A few lines will be requiſite to detect the groſs misinformations (though care was taken to prevent them) which ſome Pamphleteers have ſpread in print to the deceiving of people.</head>
+               <p>ANd firſt it is not to be believed by any wiſe man that there ſhould be found a mouth ſo black as to ſay, his being of opi<g ref="char:EOLhyphen"/>nion, that this Age hath covered and countenanced more horrid Murder than ever were committed ſince the world began, and would make one believe that Murder was almoſt priviledged, &amp; that the Sun hath ſeen and ſmiled on ſuch Murders, at which in modeſty of former times he would have ſtarted back, or with<g ref="char:EOLhyphen"/>drawn himſelf behind a Cloud rather than to have beheld them; <hi>What an aſperſion this is to the whole State in general, and worthy what puniſhment, I leave to judicious men to infer?</hi>
+               </p>
+               <p>Secondly, from Aſperſion of the State in generall, he de<g ref="char:EOLhyphen"/>ſcends to particulars, and begins with as ſad an Object as ever was (and yet as innocent) the Murdered Servant of Maſter <hi>Worth, John Knight,</hi> who was about nineteen years of Age, deſcended of Worſhipfull Anceſtors (his Father having been a Juſtice of
+<pb n="14" facs="tcp:168486:10"/> Peace in <hi>Berkſhire)</hi> born to a faire eſtate and beginning in his Trade of a <hi>Silk-man;</hi> and as hopefull therein, for in one years time or there abouts, he was grown ſo expert, that his Maſter did truſt him with the ſole mannagement of his Affairs in his abſcence; and he performed it to good liking, and might have continu<g ref="char:EOLhyphen"/>ed ſo to have done, had not this ſad diſaſter faln out. Yet a Sheet Pamphleteer aſperſeth him with a preſumption of the len<g ref="char:EOLhyphen"/>ding of great ſums of money to <hi>Nathaniel Butler,</hi> to endulge his opinion of him; and that he ſhould defraud his Maſter of forty ſhillings to lend the ſaid <hi>Nathaniel Butler:</hi> Which aſperſions may poſibly be examined in time, and what the Law and a conſiderate Jury will award, will be the juſt puniſhment of ſuch Defamers: For the Youth had a little before received more conſiderately (then what he had lent,) from his Mother out of the Country; ſo that he needed not to defraud his Maſter, nor doth he charge him in the leaſt with ſuch an act; as having clearer teſtimonies of his better Service.</p>
+               <p>Thirdly, It's ſpread abroad and thought that they were Chriſt<g ref="char:EOLhyphen"/>ned in the ſame Font, and had been School-fellows, but its evi<g ref="char:EOLhyphen"/>dent they were born at too far a diſtance each from other, that the firſt could not be; and its as certain that untill he became an Apprentice here in <hi>London,</hi> they knew not each other.</p>
+               <p>Fourthly, Another Pamphleteer endeavours for a ſin in the Son to Aſperſe and defame the Father; and to take a way his Name and Credite at once, this relates to <hi>Nathaniel Butler</hi> his Father.</p>
+               <p>Fifthly, One Relator, or rather Paper-ſtainer, ſince his Death, hath theſe words; <hi>Who ſo ſhall read this engeniouſly, or have any diſcourſe with him, will</hi> &amp;c. And in another place, prayeth; <hi>The Lord ſtrengthen him, and ſtand by him,</hi> with other abſurdities, not a few.</p>
+               <p>Laſtly, Other paſſages as well lying as Non-ſenſicall are ſpread though their Pot Pamphlets, and Paper Murderers: for a mans good Name and Honour, is moſtly accounted as dear as his Life.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="15" facs="tcp:168486:10"/>
+            <head>A POST-SCRIPT, OR, <hi>Remarks upon the whole.</hi>
+            </head>
+            <p>THus good Reader, Thou haſt the whole truth of that horrid Murder unfolded unto thee, and that by endeavours of ſome whoſe deſires were more after the knowledge and making known the Truth, than their hopes or deſires of profit; which is the uſual bate of the paper-ſtainers of this Age. And as a fur<g ref="char:EOLhyphen"/>ther aſſurance of the care taken to bring this to light, I will aſſure thee, on <hi>Munday</hi> at night which was the tenth of <hi>Auguſt</hi> laſt, the Order (in words to this affect) was left by the head City-Mar<g ref="char:EOLhyphen"/>tial, directed to the Clerke of the Stationers Hall, <hi>viz.</hi>
+            </p>
+            <p>For as much, That there is care taken, that after the Execution of the late Deſperate Murderer <hi>Nathaniel Butler,</hi> there ſhall be Publiſhed a true and exact Relation of his ſad Act; as alſo of his Confeſſion, and the legall Proceedings upon the whole, <hi>&amp;c.</hi> It is therefore (by Command from the Right Honourable the Lord Mayor) forbidden that any Perſon or Perſons preſume to put in Print any Book, Pamphlet, or Ballad; of, or concerning the ſame. And it is deſired, that the Reader ſuſpend his cenſure untill then; for that in the laſt <hi>Monday</hi> and <hi>Thurſdays</hi> News Books, and in other Pamphlets there was ſome misinformation, which order the ſaid Clerk, to his commendation, punctually obſerved.</p>
+            <p>Great was his Lordſhips care herein, but greater his zeal; for the good of the Priſoners Soul: and it will not eaſily ſlip out of memory, that a dying man, in the letter of the Law, ſhould be viſited in order to his Souls-welfare, by Sr. <hi>Robert Titchbourn</hi> Kt. and Lord Mayor of <hi>London:</hi> And oft viſited by his Lordſhips Champlain <hi>Mr<g ref="char:punc">▪</g> Randolph Yearwood.</hi>
+            </p>
+         </div>
+         <div type="associated_persons">
+            <pb facs="tcp:168486:11"/>
+            <head>London. ſſ <hi>The names of the Iurors of the Coroners Inqueſt, upon the death of</hi> John Knight, <hi>who was Murdered by</hi> Nathaniel Butler.</head>
+            <list>
+               <item>Richard Chaplyn.</item>
+               <item>George Hawkins.</item>
+               <item>William Drinkwater.</item>
+               <item>Humphrey Kilby.</item>
+               <item>William Street.</item>
+               <item>Chriſtopher Huſſey.</item>
+               <item>Edward Lewis.</item>
+               <item>John Holms.</item>
+               <item>John Eaton.</item>
+               <item>Thomas Langham.</item>
+               <item>William Holgate.</item>
+               <item>Robert Moreton.</item>
+               <item>Richard Brindley.</item>
+               <item>Richard Aley.</item>
+               <item>Robert Peete.</item>
+               <item>Iſaack Hodgkins.</item>
+               <item>John Tarleton.</item>
+               <item>Edward Dickins.</item>
+               <item>Robert Brierley.</item>
+               <item>Thomas Walton.</item>
+               <item>William Beedham.</item>
+               <item>George Pawlet.</item>
+               <item>George King <hi>and</hi>
+               </item>
+               <item>Edward Nettleſhip.</item>
+            </list>
+            <p>
+               <hi>XXIV.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>By me</hi> Edward Moreton <hi>Coroner</hi>
+               </signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
